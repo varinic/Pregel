@@ -1,2 +1,2 @@
 # Pregel
-A simple Pregel graph analysis system implemented by c++
+A simple Pregel graph analysis system implemented by c++.
